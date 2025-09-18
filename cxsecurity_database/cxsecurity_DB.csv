@@ -7774,3 +7774,68 @@ High,LastPass Credential Leak From Previous Site,https://cxsecurity.com/issue/WL
 Low,InJob | Multi-purpose for recruitment WordPress Theme v3.3.6 Reflected & Persistent XSS,https://cxsecurity.com/issue/WLB-2019090115,"CWE, SubversA",Remote,,No,Yes,N/A,CWE-79
 Medium,Zoner | Real Estate Joomla Theme Persistent XSS,https://cxsecurity.com/issue/WLB-2019090114,"CWE, SubversA",Remote,,No,Yes,N/A,CWE-79
 Medium,Inteno IOPSYS Gateway Improper Access Restrictions,https://cxsecurity.com/issue/WLB-2019090113,"CVE, Gerard Fuguet",Remote,Gerard Fuguet,No,Yes,CVE-2019-13140,CWE-203
+Low,LimeSurvey 3.17.13 Cross-Site Scripting,https://cxsecurity.com/issue/WLB-2019090112,"CVE, Andreas Kolbeck",Remote,Andreas Kolbeck,No,Yes,CVE-2019-16173 | CVE-2019-16172,N/A
+Low,LimeSurvey 3.17.13 Cross Site Scripting,https://cxsecurity.com/issue/WLB-2019090111,"CVE, CWE, Andreas Kolbeck",Remote,Andreas Kolbeck,No,Yes,CVE-2019-16173 | CVE-2019-16172,CWE-79
+Low,Dolibarr ERP-CRM 10.0.1 Cross Site Scripting,https://cxsecurity.com/issue/WLB-2019090110,"CVE, CWE, Metin Yunus Kandemir",Remote,Metin Yunus Kandemir,No,Yes,CVE-2019-16197,CWE-79
+Low,Piwigo 2.9.5 Cross Site Request Forgery / Cross Site Scripting,https://cxsecurity.com/issue/WLB-2019090109,"CVE, CWE, Rodolfo Tavares",Remote,Rodolfo Tavares,No,Yes,CVE-2019-13364 | CVE-2019-13363,"CWE-352
+CWE-79"
+Low,Folder Lock 7.7.9 Denial Of Service,https://cxsecurity.com/issue/WLB-2019090108,Achilles,Local,Achilles,Yes,No,N/A,N/A
+Medium,Don Quico Empresa (SQL Injection / XSS Reflected),https://cxsecurity.com/issue/WLB-2019090107,"CWE, intrackeable",Remote,,No,Yes,N/A,CWE-89 CWE-79
+Medium,Cabrera Propiedades (Blind SQL Injection),https://cxsecurity.com/issue/WLB-2019090106,"CWE, intrackeable",Remote,,No,Yes,N/A,CWE-89
+Medium,College-Management-System 1.2 Authentication Bypass,https://cxsecurity.com/issue/WLB-2019090105,Cakes,Remote,Cakes,No,Yes,N/A,N/A
+Medium,Giribala Creative Ventures Fluent Technology Software Authentication Bypass Backdoor Access Vulnerability,https://cxsecurity.com/issue/WLB-2019090104,"CWE, KingSkrupellos",Remote,,No,Yes,N/A,CWE-434
+Low,phpMyAdmin 4.9.0.1 Cross Site Request Forgery,https://cxsecurity.com/issue/WLB-2019090103,"CVE, CWE, Manuel Garcia Cardenas",Remote,Manuel Garcia Cardenas,No,Yes,CVE-2019-12922,CWE-352
+Medium,La Paz Shopping (SQL Injection / XSS Reflected),https://cxsecurity.com/issue/WLB-2019090102,"CWE, intrackeable",Remote,,No,Yes,N/A,CWE-89 CWE-79
+Medium,Ticket-Booking 1.4 Authentication Bypass,https://cxsecurity.com/issue/WLB-2019090101,Cakes,Remote,Cakes,No,Yes,N/A,N/A
+Medium,WordPress Plugin Photo Gallery 1.5.34 SQL Injection,https://cxsecurity.com/issue/WLB-2019090100,"CVE, CWE, MTK",Remote,MTK,No,Yes,CVE-2019-16119,CWE-89
+High,ChaosPro 2.1 SEH Buffer Overflow,https://cxsecurity.com/issue/WLB-2019090099,"CWE, securitychops",Local,securitychops,Yes,No,N/A,CWE-119
+Medium,Department of Political Science of University of Rochester SQLI,https://cxsecurity.com/issue/WLB-2019090098,H.BBF3.4,Remote,,No,Yes,N/A,N/A
+Medium,Laprida Gobierno Municipal (SQL Injection),https://cxsecurity.com/issue/WLB-2019090097,"CWE, intrackeable",Remote,,No,Yes,N/A,CWE-89
+Medium,by Logic Indo Solution Bypass Admin Login,https://cxsecurity.com/issue/WLB-2019090096,Mr.X98,Remote,,No,Yes,N/A,N/A
+High,Generic Zip Slip Traversal,https://cxsecurity.com/issue/WLB-2019090095,"CWE, sinn3r",Remote,sinn3r,No,Yes,N/A,CWE-22
+High,Opencart 2.3.0.2 Pre-Auth Remote Command Execution,https://cxsecurity.com/issue/WLB-2019090094,"CWE, Todor Donev",Remote,Todor Donev,No,Yes,N/A,CWE-78
+Low,Enigma NMS 65.0.0 Cross-Site Request Forgery,https://cxsecurity.com/issue/WLB-2019090093,"CVE, CWE, Mark Cross",Remote,Mark Cross,No,Yes,CVE-2019-16068,CWE-352
+Medium,eWON Flexy 13.0 Authentication Bypass,https://cxsecurity.com/issue/WLB-2019090092,Photubias,Remote,Photubias,No,Yes,N/A,N/A
+Medium,Aalto University subdomain SQLi,https://cxsecurity.com/issue/WLB-2019090091,H.BBF3.4,Remote,,No,Yes,N/A,N/A
+Medium,Turkish Real Estate Sites Sql İnjection,https://cxsecurity.com/issue/WLB-2019090090,efeb3y,Remote,,No,Yes,N/A,N/A
+Medium,The Red Petals Florist SQLi,https://cxsecurity.com/issue/WLB-2019090089,H.BBF3.4,Remote,,No,Yes,N/A,N/A
+Medium,Indian Diaspora Council SQLi,https://cxsecurity.com/issue/WLB-2019090088,H.BBF3.4,Remote,,No,Yes,N/A,N/A
+Medium,foods2goods SQLi,https://cxsecurity.com/issue/WLB-2019090087,H.BBF3.4,Remote,,No,Yes,N/A,N/A
+Medium,Fire King SQLi,https://cxsecurity.com/issue/WLB-2019090086,H.BBF3.4,Remote,,No,Yes,N/A,N/A
+Medium,fooddrinktalk SQLi,https://cxsecurity.com/issue/WLB-2019090085,H.BBF3.4,Remote,,No,Yes,N/A,N/A
+Medium,FANTCO SQLi,https://cxsecurity.com/issue/WLB-2019090084,H.BBF3.4,Remote,,No,Yes,N/A,N/A
+High,AVCON6 Systems Management Platform Remote Root,https://cxsecurity.com/issue/WLB-2019090083,Nassim Asrir,Remote,Nassim Asrir,No,Yes,N/A,N/A
+Low,OpenEdx Ironwood.1 Cross Site Scripting,https://cxsecurity.com/issue/WLB-2019090082,"CWE, Daniel Bishtawi",Remote,Daniel Bishtawi,No,Yes,N/A,CWE-79
+Low,WordPress Checklist 1.1.5 Cross Site Scripting,https://cxsecurity.com/issue/WLB-2019090081,"CWE, Ricardo Sanchez",Remote,Ricardo Sanchez,No,Yes,N/A,CWE-79
+Medium,Fagen Friedman & Fulfrost LLP SQLi,https://cxsecurity.com/issue/WLB-2019090080,H.BBF3.4,Remote,,No,Yes,N/A,N/A
+Medium,Alkacon OpenCMS 10.5.x Local File inclusion,https://cxsecurity.com/issue/WLB-2019090079,"CVE, CWE, Aetsu",Remote,Aetsu,No,Yes,CVE-2019-13237,CWE-98
+Medium,ProtonVPN 1.10.1 DLL Hijacking & Privilege Escalation,https://cxsecurity.com/issue/WLB-2019090078,Nir Yehoshua,Local,,Yes,No,N/A,N/A
+Medium,WordPress Qwiz Online Quizzes And Flashcards 3.36 Cross Site Scripting,https://cxsecurity.com/issue/WLB-2019090077,"CWE, Ricardo Sanchez",Remote,Ricardo Sanchez,No,Yes,N/A,CWE-79
+Low,WordPress Sell Downloads 1.0.86 Cross Site Scripting,https://cxsecurity.com/issue/WLB-2019090076,"CWE, Mr Winst0n",Remote,Mr Winst0n,No,Yes,N/A,CWE-79
+Low,Cisco Content Security Virtual Appliance M380 IronPort Remote Cross Site Host Modification,https://cxsecurity.com/issue/WLB-2019090075,Todor Donev,Remote,Todor Donev,No,Yes,N/A,N/A
+Low,Facebook Messenger Denial Of Service,https://cxsecurity.com/issue/WLB-2019090074,Social Engineering Neo,Local,Social Engineering Neo,Yes,No,N/A,N/A
+Medium,Website Designed & Maintained by WEBINFINITY SQLi,https://cxsecurity.com/issue/WLB-2019090073,H.BBF3.4,Remote,,No,Yes,N/A,N/A
+Medium,Dolibarr ERP-CRM 10.0.1 SQL Injection,https://cxsecurity.com/issue/WLB-2019090072,"CWE, Metin Yunus Kandemir",Remote,Metin Yunus Kandemir,No,Yes,N/A,CWE-89
+Medium,Department of Physical Chemistry Universitat de Barcelona XSS SQL Injection,https://cxsecurity.com/issue/WLB-2019090071,"CWE, KingSkrupellos",Remote,,No,Yes,N/A,CWE-89 CWE-79
+Medium,Detroit Public Televisions American Black Journal Michigan State University XSS SQL Injection,https://cxsecurity.com/issue/WLB-2019090070,"CWE, KingSkrupellos",Remote,,No,Yes,N/A,CWE-89 CWE-79
+Medium,Columbia University Biology Laboratory Adoption of Orphan Metabolic Activities XSS SQL Injection,https://cxsecurity.com/issue/WLB-2019090069,"CWE, KingSkrupellos",Remote,,No,Yes,N/A,CWE-89 CWE-79
+Medium,Tibco JasperSoft Path Traversal,https://cxsecurity.com/issue/WLB-2019090068,"CVE, CWE, Elar Lang",Remote,Elar Lang,No,Yes,CVE-2018-18809,CWE-22
+High,CA Common Services Distributed Intelligence Architecture (DIA) Code Execution,https://cxsecurity.com/issue/WLB-2019090067,"CVE, Kevin Kotas",Remote,Kevin Kotas,No,Yes,CVE-2019-13656,CWE-284
+Medium,WordPress Ellipsis Human Presence Technology 2.0.8 Cross Site Scripting,https://cxsecurity.com/issue/WLB-2019090066,"CWE, Ricardo Sanchez",Remote,Ricardo Sanchez,No,Yes,N/A,CWE-79
+Medium,Rifatron Intelligent Digital Security System (animate.cgi) Stream Disclosure,https://cxsecurity.com/issue/WLB-2019090065,LiquidWorm,Remote,LiquidWorm,No,Yes,N/A,N/A
+High,Dabman And Imperial Web Radio Devices Undocumented Telnet Backdoor,https://cxsecurity.com/issue/WLB-2019090064,"CVE, Benjamin Kunz Mejri",Remote,Benjamin Kunz Mejri,No,Yes,CVE-2019-13473 | CVE-2019-13474,N/A
+Low,Reality | Estate Multipurpose WordPress Theme Persistent XSS,https://cxsecurity.com/issue/WLB-2019090063,"CWE, SubversA",Remote,,No,Yes,N/A,CWE-79
+Medium,Selio - Real Estate Directory SQL Injection & Persistent XSS,https://cxsecurity.com/issue/WLB-2019090062,"CWE, SubversA",Remote,,No,Yes,N/A,"CWE-79
+CWE-89"
+High,Instagram - Open Redirect Vulnerability,https://cxsecurity.com/issue/WLB-2019090061,Gurzil - Kouch,Remote,,No,Yes,N/A,N/A
+Medium,NtFileSins v2.1 / Windows NTFS Privileged File Access Enumeration Tool,https://cxsecurity.com/issue/WLB-2019090060,hyp3rlinx,Local,,Yes,No,N/A,N/A
+Medium,Enigma NMS 65.0.0 SQL Injection,https://cxsecurity.com/issue/WLB-2019090059,"CVE, CWE, Mark Cross",Remote,Mark Cross,No,Yes,CVE-2019-16065,CWE-89
+Medium,Nexos - Real Estate WordPress Theme SQL Injection & Persistent XSS,https://cxsecurity.com/issue/WLB-2019090058,"CWE, SubversA",Remote,,No,Yes,N/A,"CWE-89
+CWE-79"
+Medium,Design by Yuvantra pvt ltd bypass admin panel and upload shell,https://cxsecurity.com/issue/WLB-2019090057,"CVE, Zaen",Remote,,No,Yes,[+] Exploit title : &quot;Design by Yuvantra pvt ltd&quot;,N/A
+Medium,Spotify 1.1.14.475 DLL Hijacking,https://cxsecurity.com/issue/WLB-2019090056,Nir Yehoshua,Local,,Yes,No,N/A,N/A
+High,NtFileSins / Windows NTFS Privileged File Access Enumeration Tool,https://cxsecurity.com/issue/WLB-2019090055,hyp3rlinx,Remote,,No,Yes,N/A,N/A
+High,Pulse Secure Post-Auth Remote Code Execution,https://cxsecurity.com/issue/WLB-2019090054,"CVE, Alyssa Herrera, Justin...",Remote,,No,Yes,CVE-2019-11539,CWE-77
+High,October CMS Upload Protection Bypass Code Execution,https://cxsecurity.com/issue/WLB-2019090053,"CWE, Anti Rais",Remote,Anti Rais,No,Yes,N/A,CWE-264
+Medium,LibreNMS Collectd Command Injection,https://cxsecurity.com/issue/WLB-2019090052,"CWE, Eldar Marcussen",Local,Eldar Marcussen,Yes,No,N/A,CWE-78
+Medium,Microsoft Windows 10 UAC Protection Bypass Via Windows Store,https://cxsecurity.com/issue/WLB-2019090051,timwr,Local,timwr,Yes,No,N/A,N/A
